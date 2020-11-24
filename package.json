@@ -1,0 +1,24 @@
+{
+  "name": "criptocoin-api-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --require dotenv/config app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrelake/criptocoin-api-request.git"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrelake/criptocoin-api-request/issues"
+  },
+  "homepage": "https://github.com/andrelake/criptocoin-api-request#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
